@@ -1,4 +1,4 @@
-package com.learning.arrays.TwoDimentionalArray;
+package main.TwoDimentionalArray;
 
 /**
  * This class contains a program to check if a given 2D matrix is an identity matrix.

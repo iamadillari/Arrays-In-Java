@@ -1,4 +1,4 @@
-package com.learning.arrays.TwoDimentionalArray;
+package main.TwoDimentionalArray;
 
 /*
 Problem Description:

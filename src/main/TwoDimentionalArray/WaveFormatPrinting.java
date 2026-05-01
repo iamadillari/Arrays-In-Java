@@ -1,4 +1,4 @@
-package com.learning.arrays.TwoDimentionalArray;
+package main.TwoDimentionalArray;
 
 public class WaveFormatPrinting {
     public static void main(String[] args) {

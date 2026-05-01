@@ -1,8 +1,8 @@
-package com.learning.arrays.OneDimensionalArrays.Easy;
+package main.OneDimensionalArrays.Easy;
 
-             import java.util.ArrayList;
-             import java.util.Arrays;
-             import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
 
              /**
               * Generates sequences of natural numbers from 1 to N using either

@@ -1,4 +1,4 @@
-package com.learning.arrays.OneDimensionalArrays.Easy;
+package main.OneDimensionalArrays.Easy;
 
 public class ArraySortChecker {
     public static void main(String[] args) {

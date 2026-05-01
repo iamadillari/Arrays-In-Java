@@ -1,9 +1,9 @@
-package com.learning.arrays.TwoDimentionalArray;
+package main.TwoDimentionalArray;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import static com.learning.arrays.OneDimensionalArrays.Easy.UniqueElementsFinder.uniqueElements;
+import static main.OneDimensionalArrays.Easy.UniqueElementsFinder.uniqueElements;
 
 /**
  * This class provides functionality to find unique elements within each row of a 2D ArrayList.
