@@ -1,4 +1,4 @@
-package com.learning.arrays.OneDimensionalArrays;
+package main.OneDimensionalArrays;
 
 import java.util.ArrayList;
 import java.util.Collections;

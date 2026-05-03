@@ -1,4 +1,4 @@
-package com.learning.arrays.OneDimensionalArrays.Random;
+package main.OneDimensionalArrays.Random;
 
 //looping through the elements of the array
 public class OneDArray_10 {

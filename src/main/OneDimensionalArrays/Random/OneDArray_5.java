@@ -1,4 +1,4 @@
-package com.learning.arrays.OneDimensionalArrays.Random;
+package main.OneDimensionalArrays.Random;
 
 import java.util.ArrayList;
 

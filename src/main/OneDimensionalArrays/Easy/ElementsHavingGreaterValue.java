@@ -1,4 +1,4 @@
-package com.learning.arrays.OneDimensionalArrays.Easy;
+package main.OneDimensionalArrays.Easy;
 
 /**
  * Given an array A of N integers.

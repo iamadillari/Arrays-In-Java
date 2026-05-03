@@ -16,7 +16,7 @@
  * @author Adil Lari
  * @version 2.0
  */
-package com.learning.arrays.OneDimensionalArrays.Easy;
+package main.OneDimensionalArrays.Easy;
 
 import java.util.Arrays;
 import java.util.Scanner;

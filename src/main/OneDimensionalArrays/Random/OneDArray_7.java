@@ -1,4 +1,4 @@
-package com.learning.arrays.OneDimensionalArrays.Random;
+package main.OneDimensionalArrays.Random;
 
 public class OneDArray_7 {
     public static void main(String[] args) {
