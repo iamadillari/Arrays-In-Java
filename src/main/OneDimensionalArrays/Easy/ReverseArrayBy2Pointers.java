@@ -3,6 +3,12 @@ package main.OneDimensionalArrays.Easy;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * This class contains a method to reverse an array using the two-pointer technique.
+ * The two-pointer technique involves initializing two pointers,
+ * one at the beginning and one at the end of the array.
+ * The elements are then swapped between these two pointers until they meet in the middle.
+ */
 public class ReverseArrayBy2Pointers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
